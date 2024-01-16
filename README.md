@@ -12,7 +12,7 @@
 <p>
   <ul>
     <li>I've built 3 keyboards and my <a href="https://monkeytype.com/profile/sheep1">personal best WPM</a> is 181</li>
-    <li>I play aquatic sports 🤽‍♀️🏊‍♀️</li>
+    <li>I dabble aquatic sports 🤽‍♀️🏊‍♀️</li>
     <li>Will rave about Asian bakeries and Hong Kong tea shops 🍞🍵 </li>
 
   </ul>
