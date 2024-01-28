@@ -22,6 +22,7 @@
 <p> 
     <ul> 
         <li> Joining a design team </li>
+        <li> Learning DVORAK keyboard layout </li>
         <li> Developing a machine learning or neurolink project to help advance the medical field</li>
         <li> Finishing One Piece (ep. 778) 🏴‍☠️ </li>
     </ul> 
