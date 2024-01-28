@@ -1,4 +1,4 @@
-<h2>Hey, I'm <a href="www.linkedin.com/in/jessica-yuan1">Jessica Yuan</a>! </h2>
+<h2>Hey, I'm <a href="https://jessyuan.com">Jessica Yuan</a>! </h2>
 
 <p>
   <ul>
