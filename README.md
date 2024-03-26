@@ -11,7 +11,7 @@
 <h3>Fun facts about me:</h3>
 <p>
   <ul>
-    <li>I've built 3 keyboards and my <a href="https://monkeytype.com/profile/sheep1">personal best WPM</a> is 181</li>
+    <li>I've built 3 keyboards and <a href="https://monkeytype.com/profile/sheep1">I like to type</a> </li>
     <li>I dabble in aquatic sports 🤽‍♀️🏊‍♀️</li>
     <li>Will rave about Asian bakeries and Hong Kong tea shops 🍞🍵 </li>
 
