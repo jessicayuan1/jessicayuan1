@@ -13,7 +13,7 @@
   <ul>
     <li>I've built 3 keyboards and <a href="https://monkeytype.com/profile/sheep1">I like to type</a> </li>
     <li>I dabble in aquatic sports 🤽‍♀️🏊‍♀️</li>
-    <li>Will rave about Asian bakeries and Hong Kong tea shops 🍞🍵 </li>
+    <li>Will rave about bakeries and coffee shops 🍞🍵 </li>
 
   </ul>
 </p>
