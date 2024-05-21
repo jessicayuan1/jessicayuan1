@@ -3,11 +3,11 @@
 <p>
   <ul>
     <li>I'm a Computer Engineering student at the <a href="https://uwaterloo.ca/">University of Waterloo</a> 🦆</li>
-    <li>I was a Software Developer at <a href="https://www.canadiansolar.com/">Canadian Solar</a>🌤</li>
+    <li>I interned at <a href="https://www.canadiansolar.com/">Canadian Solar</a>🌤 and  <a href="https://www.ttc.ca/">Toronto Transit Commission</a>🚆   </li>
     
   </ul>
 </p>
-
+ 
 <h3>Fun facts about me:</h3>
 <p>
   <ul>
