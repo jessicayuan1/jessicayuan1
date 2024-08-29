@@ -25,7 +25,7 @@
 <!--         <li>  </li>
         <li> Running,  </li> -->
         <li> Developing a machine learning or neurolink project to help advance the medical field </li>
-        <li> Finishing One Piece (ep. 778) 🏴‍☠️ </li>
+        <li> Finishing One Piece (ep. 916) 🏴‍☠️ </li>
     </ul> 
 </p>
 
