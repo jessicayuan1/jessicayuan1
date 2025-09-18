@@ -19,10 +19,9 @@
 <h3>I'm working on:</h3>
 <p> 
     <ul> 
-        <li> Hyperloop and WATonomous</li>
+        <li> WAT.ai Diabetic Retinopathy</li>
 <!--         <li>  </li>
         <li> Running,  </li> -->
-        <li> Developing a machine learning or neurolink project to help advance the medical field </li>
         <li> Finishing One Piece (ep. 916) 🏴‍☠️ </li>
     </ul> 
 </p>
