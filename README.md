@@ -1,22 +1,23 @@
 <h2>Hey, I'm <a href="https://jessyuan.com">Jessica </a>! </h2>
 
-<p>
+<!-- <p>
   <ul>
-    <li>I'm a Computer Engineering student at the <a href="https://uwaterloo.ca/">University of Waterloo</a> 🦆</li>
+    
   </ul>
-</p>
+</p> -->
  
-<h3>Fun facts about me:</h3>
+<h3>about me:</h3>
 <p>
   <ul>
+    <li>3B computer engineering at <a href="https://uwaterloo.ca/">University of Waterloo</a> 🦆</li>
     <li> <a href="https://monkeytype.com/profile/sheep1">I like to type</a> </li>
-    <li>I dabble in aquatic sports 🤽‍♀️🏊‍♀️</li>
-    <li>Will rave about bakeries and coffee shops 🍞🍵 </li>
+    <!-- <li>I dabble in aquatic sports 🤽‍♀️🏊‍♀️</li> -->
+    <li>Can find me at a coffee shop 🍞🍵 </li>
 
   </ul>
 </p>
 
-<h3>I'm working on:</h3>
+<h3>working on:</h3>
 <p> 
     <ul> 
         <li> WAT.ai Diabetic Retinopathy</li>
@@ -29,6 +30,6 @@
 <h2> Get in touch!</h2>
 <p> 
     <!-- <li> Discord</li> -->
-    📧 jl2yuan@uwaterloo.ca or on Discord, @sheeepi
+    📧 Discord, @sheeepi
 
 </p>
