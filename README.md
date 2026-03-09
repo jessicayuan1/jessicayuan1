@@ -9,7 +9,7 @@
 <h3>about me:</h3>
 <p>
   <ul>
-    <li>3B computer engineering at <a href="https://uwaterloo.ca/">University of Waterloo</a> 🦆</li>
+    <li>4a computer engineering at <a href="https://uwaterloo.ca/">University of Waterloo</a> 🦆</li>
     <li> <a href="https://monkeytype.com/profile/sheep1">I like to type</a> </li>
     <!-- <li>I dabble in aquatic sports 🤽‍♀️🏊‍♀️</li> -->
     <li>Can find me at a coffee shop 🍞🍵 </li>
@@ -21,6 +21,7 @@
 <p> 
     <ul> 
         <li> WAT.ai Diabetic Retinopathy</li>
+        <li> Capstone</li>
 <!--         <li>  </li>
         <li> Running,  </li> -->
         <li> Finishing One Piece (ep. 916) 🏴‍☠️ </li>
