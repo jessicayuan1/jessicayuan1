@@ -17,20 +17,3 @@
   </ul>
 </p>
 
-<h3>working on:</h3>
-<p> 
-    <ul> 
-        <li> WAT.ai Diabetic Retinopathy</li>
-        <li> Capstone</li>
-<!--         <li>  </li>
-        <li> Running,  </li> -->
-        <li> Finishing One Piece (ep. 916) 🏴‍☠️ </li>
-    </ul> 
-</p>
-
-<h2> Get in touch!</h2>
-<p> 
-    <!-- <li> Discord</li> -->
-    📧 Discord, @sheeepi
-
-</p>
